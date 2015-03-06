@@ -98,7 +98,7 @@ long as they were harmless, she was happy the way they were. "Nature is beautifu
 to do is see for myself!"
 
 Caroline loves Old Mr. Computer unconditionally. They have known each other for all their lives. She has made 
-getting  to know his lingo — called Java — a creative project. Old Mr. Computer needs Caroline to help him 
+getting to know his lingo — called Java — a creative project. Old Mr. Computer needs Caroline to help him 
 communicate. He has many important things to say. Caroline never leaves a friend in need!
 
 Little did Caroline know, she was writing her first computer program in the modern programming language of Java. 
