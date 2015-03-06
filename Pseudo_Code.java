@@ -117,7 +117,7 @@ On one unusual Wednesday, Caroline plum forgot.
 Thursday morning, she found Mr. Green wilting with woe.
 "My dear little flower! Why do you wilt with woe?"
 "Oh Caroline, you did not visit me yesterday. I've have had nothing to drink, and I'm parched with thirst. I'm 
-exhausted, and too dry even to cry."
+exhausted, and too dry to even cry."
 
 At that very moment, Caroline resolved herself to never again forget to feed any one of The Flowers. She went home 
 that night to think with her whole entire brain in order to find a solution. Naturally, she found one.
