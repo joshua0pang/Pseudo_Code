@@ -146,7 +146,7 @@ Schedule For My Little Flowers by Caroline
 } 
 
 Caroline found the braces to be very useful in organizing her ideas. She started to use them anytime she worked with
-Old Mr. Computer, as it helped to keep both of them organized. Like the fence which protects The Garden, computer 
+Old Mr. Computer. It helped to keep both of them organized. Like the fence which protects The Garden, computer 
 braces protect her ideas.
 
 Moral Of The Story: Everyone needs to structure their ideas. There are a limited number of conventions to begin and 
