@@ -9,8 +9,8 @@ computer science here and there. Enjoy!"
 The Flowers Of The Garden live life in a cycle. They recycle. 
 Every day The Flowers play in sunlight, then dream in moonlight, then play in sunlight, then dream in moonlight. 
 This cycle recycles forever. The Earth loves to recycle. 
-Every season The Flowers grow big, then grow small, then grow big, then grow small. This cycle recycles forever. The
-Earth loves to recycle.
+Every season The Flowers grow big, then grow small, then grow big, then grow small. 
+This cycle recycles forever. The Earth loves to recycle.
 The Flowers of the Garden live life in a cycle. They recycle. 
 
 In computer science, we call this a loop.
