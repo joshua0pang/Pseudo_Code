@@ -203,7 +203,7 @@ And so, Mr. Computer began his long-winded monologue, as is customary on Planet 
 
 // Comments are denoted by the use of two forward slashes "//"
 
-Class(Caroline_Waters_The_Flowers)
+Class Caroline_Waters_The_Flowers
 { 
 
 	// A class defines a program in Java. Let's say a program is like an novella.
