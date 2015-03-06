@@ -96,9 +96,9 @@ String Green = "Mr. Green";
 Caroline did not know why the some of the words got topsy-turvy, nor why a few friendly semicolons appeared, but so 
 long as they were harmless, she was happy the way they were. "Nature is beautiful, and so are computers. All I have 
 to do is see for myself!"
-Caroline loves Old Mr. Computer unconditionally. They have known each other for all their lives. She has made getting 
-to know his lingo — called Java — a creative project. Old Mr. Computer needs Caroline to help him communicate. He has
-many important things to say. Caroline never leaves a friend in need!
+Caroline loves Old Mr. Computer unconditionally. They have known each other for all their lives. She has made 
+getting  to know his lingo — called Java — a creative project. Old Mr. Computer needs Caroline to help him 
+communicate. He has many important things to say. Caroline never leaves a friend in need!
 
 Little did Caroline know, she was writing her first computer program in the modern programming language of Java. 
 Java is the language Old Mr. Computer speaks. Many programming languages are similar in nature to Java. Java is the 
