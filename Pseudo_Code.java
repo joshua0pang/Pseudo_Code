@@ -165,7 +165,7 @@ wins.
 Mr. Computer had kept the braces like Caroline asked. However, shame-faced, Mr. Computer admitted he accidentally 
 added a few things. It looked like this:
 
-ScheduleForMyLittleFlowers()
+Schedule_For_My_Little_Flowers()
 {
 	While(In The Garden) 
 	{
