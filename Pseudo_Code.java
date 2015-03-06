@@ -205,24 +205,19 @@ And so, Mr. Computer began his long-winded monologue, as is customary on Planet 
 
 Class Caroline_Waters_The_Flowers
 { 
-
 	// A class defines a program in Java. Let's say a program is like an novella.
-	
 	Function Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday) 
 	{	
-	
 	// A function is a like a chapter of an novella. It usually contains a series of verbs — something the 
 	// program does — and nouns — something the computer can use to do things — which 'return' a product — 
 	// something worth the effort of doing the action of a verb with a noun. A return statement is similar to 
 	// using a paragraph or series of paragraphs to make a point, or prove a thesis. The return statement is the
 	// proven thesis. There may be many theses that need to be proven in order to prove a hierarchically larger
 	// thesis. This is mildly pyramidal if you think about it, the bricks build higher until the apex.
-	
 		Function Water(A Flower)
 		{
 			Return Pour Water On Said Flower;
 		}
-		
 		// In a computer program, everything needs to be exactly explicitly defined. We might not think of 
 		// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
 		// just such precise instructions. Though this is almost universally tedious to regular folks, I 
@@ -231,7 +226,6 @@ Class Caroline_Waters_The_Flowers
 		// attention to detail just as much as computer does. And, both are completely unforgiving. If I 
 		// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
 		// speak.
-	
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
 		// allow the function to run. The technical term is "input."
@@ -262,7 +256,6 @@ Class Caroline_Waters_The_Flowers
 			// symbols of Java. The rest reads a bit like a book, don't you think? If Today is Monday, 
 			// Water Mr. Blue. Simple. If you cannot see this, we have a problem. Seek technical support
 			// from a teacher.
-		
 		} // Closes the "while in the garden" loop
 	} // Closes the "Schedule for my little flowers" function which not only details what to do when, but forces
 	// the program to actually do it. Caroline simply has to trust herself that she'll execute the actions she's
