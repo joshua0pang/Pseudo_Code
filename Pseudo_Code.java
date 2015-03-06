@@ -213,10 +213,10 @@ Class(Caroline_Waters_The_Flowers)
 	
 	// A function is a like a chapter of an novella. It usually contains a series of verbs — something the 
 	// program does — and nouns — something the computer can use to do things — which 'return' a product — 
-	// something worth the effort of doing the action of a verb with a noun. A return statement is the similar 
-	// to  as using a paragraph or series of paragraphs to make a point, or prove a thesis. The return statement
-	// is the proven thesis. There may be many theses that need to be proven in order to prove a hierarchically 
-	// larger thesis. This is mildly pyramidal if you think about it, the bricks build higher until the apex.
+	// something worth the effort of doing the action of a verb with a noun. A return statement is similar to 
+	// using a paragraph or series of paragraphs to make a point, or prove a thesis. The return statement is the
+	// proven thesis. There may be many theses that need to be proven in order to prove a hierarchically larger
+	// thesis. This is mildly pyramidal if you think about it, the bricks build higher until the apex.
 	
 		Function Water(A Flower)
 		{
