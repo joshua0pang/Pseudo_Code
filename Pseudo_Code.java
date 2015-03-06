@@ -1,7 +1,7 @@
 Preface // Read Me
 
 "Welcome to Pseudo Code. In this novella, we'll be sharing small, relaxing tales which sneak in byte sized bits of 
-computer science here and there. Enjoy!"
+computer science. Enjoy!"
 
 // Chapter 1: The Flowers Of The Garden 
 // An Introduction to Loops 
