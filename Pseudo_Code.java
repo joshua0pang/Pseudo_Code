@@ -223,4 +223,4 @@ I would like to see a genre of Natural Language Novels which introduce Computer 
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort of the bridge between men and women, isn't it? Maybe fun is the bridge between computers and people. Something like that.
 
-—Josh Pang
+—Josh यशस्वी Pang 
