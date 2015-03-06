@@ -291,10 +291,11 @@ literacy will do in this day and age. I know you can do it, my calculations are 
 
 I think the problem Caroline faces in Pseudo Code is completely legitimate. I face it daily. I did join a computer 
 community, and learned a lot. I also found the community excessively aggressive, competitive, and threatening. All
-Yang and no Yin. Programming in this environment is unforgiving, adding insult to injury. More work needs to be done 
-on the engineering side to allow for "good enough" programming. People speak algorithmically, not programatically. 
-They slang. However, regular people need to be a bit more organized in order to be responsible with increasingly 
-powerful technology. Otherwise we will be a Wall-E society. So, both sides need to extend an olive branch. 
+Yang and no Yin. Programming an environment where mistakes are abundant, but each mistake inches you closer to death:
+this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" programming. 
+People speak algorithmically, not programatically. They slang. However, regular people need to be a bit more 
+organized in order to be responsible with increasingly powerful technology. Otherwise we will be a Wall-E society. 
+So, both sides need to extend an olive branch. 
 
 I would like to see a genre of Natural Language Novels which introduce Computer Conventions slowly and gradually, 
 and thoroughly. This is my modest, best foot forward contribution to such an effort. I am reminded of my other 
