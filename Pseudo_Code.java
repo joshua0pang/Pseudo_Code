@@ -206,7 +206,7 @@ And so, Mr. Computer began his long-winded monologue, as is customary on Planet 
 Class Caroline_Waters_The_Flowers
 { 
 	// A class defines a program in Java. Let's say a program is like an novella.
-	Function Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday) 
+	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday) 
 	{	
 	// A function is a like a chapter of an novella. It usually contains a series of verbs — something the 
 	// program does — and nouns — something the computer can use to do things — which 'return' a product — 
