@@ -73,7 +73,7 @@ String Green = "Mr. Green";
 Caroline did not know why the some of the words got topsy-turvy, nor why a few friendly semicolons appeared, but so long as they were harmless, she was happy the way they were. "Nature is beautiful, and so are computers. All I have to do is see for myself!"
 Caroline loves Old Mr. Computer unconditionally. They have known each other all their lives. She has made getting to know his lingo — called Java — a creative project. Old Mr. Computer needs Caroline to help him communicate. He has many important things to say. Caroline never leaves a friend in need!
 
-Little did Caroline know, she was writing her first computer program in the modern programming language of Java. Java is the langauge Old Mr. Computer speaks. Many programming languages are similar in nature to Java. Java is the most popular programming langauge in computer science as of this writing. Knowing a bit of Java means knowing a bit of computer science in general. 
+Little did Caroline know, she was writing her first computer program in the modern programming language of Java. Java is the language Old Mr. Computer speaks. Many programming languages are similar in nature to Java. Java is the most popular programming language in computer science as of this writing. Knowing a bit of Java means knowing a bit of computer science in general. 
 
 Moral of the Story: Circa 2015, programming syntax is highly technical, unforgiving, and idiosyncratic. There is no getting around it. Caroline found joy in Java jargon by forgiving the rigidity of Old Mr. Computer. Can you?
 
@@ -163,14 +163,14 @@ Class(Caroline_Waters_The_Flowers)
 Function Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday) 
 {	
 
-// A function is a like a chapter of an novella. It usually contains a series of verbs — something the program does — and nouns — something the computer can use to do things — which 'return' a product — something worth the effort of doing the action of a verb with a noun. A return statement is the similar to  as using a paragraph or series of paragraphs to make a point, or prove a thesis. The return statement is the proven thesis. There may be many theses that need to be proven in order to prove a hierarchically larger thesis. This is mildly pyrimidal if you think about it, the bricks build higher until the apex.
+// A function is a like a chapter of an novella. It usually contains a series of verbs — something the program does — and nouns — something the computer can use to do things — which 'return' a product — something worth the effort of doing the action of a verb with a noun. A return statement is the similar to  as using a paragraph or series of paragraphs to make a point, or prove a thesis. The return statement is the proven thesis. There may be many theses that need to be proven in order to prove a hierarchically larger thesis. This is mildly pyramidal if you think about it, the bricks build higher until the apex.
 
 Function Water(A Flower)
 {
 	Return Pour Water On Said Flower;
 }
 
-// In a computer program, everything needs to be exactly explicitly defined. We might not think of the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs just such precise instructions. Though this is almost universally tedious to regular folks, I think we forget that as children we needed to be taught everything from how to hold a toothbrush to sautee a flambe. We sublimate so many "functions" we forget that reality requires this attention to detail just as much as computer does. And, both are completely unforgiving. If I touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to speak.
+// In a computer program, everything needs to be exactly explicitly defined. We might not think of the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs just such precise instructions. Though this is almost universally tedious to regular folks, I think we forget that as children we needed to be taught everything from how to hold a toothbrush to saute a flambe. We sublimate so many "functions" we forget that reality requires this attention to detail just as much as computer does. And, both are completely unforgiving. If I touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to speak.
 
 While(In The Garden) 
 // Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to allow the function to run. The technical term is "input."
@@ -209,7 +209,7 @@ Caroline sighs to herself. "Mr. Computer, I doubt I will ever learn your languag
 Mr. Computer takes a minute to compute an answer. "Caroline, do you believe in magic?"
 An odd question coming from a computer.
 Caroline hesitantly replies, "Of course I do. Doesn't everybody?"
-Mr. Computer smiles, "Caroline, I think I know how we can bridge this gap. You're outgoing and friendly, at least that's what The Flowers tell me. Go find some people you enjoy spending time with who know Computer-ese. I think finding the right community is key, everything else file under magic. And do give yourself lots of time, be patient. Magic takes time. Please remember you don't need to be the Shapespeare of computer progrmaming either. Just basic literacy will do in this day and age. I know you can do it, my calculations are never wrong. Trust me."
+Mr. Computer smiles, "Caroline, I think I know how we can bridge this gap. You're outgoing and friendly, at least that's what The Flowers tell me. Go find some people you enjoy spending time with who know Computer-ese. I think finding the right community is key, everything else file under magic. And do give yourself lots of time, be patient. Magic takes time. Please remember you don't need to be the Shakespeare of computer programming either. Just basic literacy will do in this day and age. I know you can do it, my calculations are never wrong. Trust me."
 
 //Author's Endnote
 
@@ -217,7 +217,7 @@ Mr. Computer smiles, "Caroline, I think I know how we can bridge this gap. You'r
  || "You either got it, or you don't, you either stand, or you fall." || 
  	- Say It Right, Nelly Furtado 
 
- I think the problem Caroline faces in Psedo Code is completely legitimate. I face it daily. I did join a computer community, and learned a lot. I also found the community excessively aggressive, competitive, and threatening. Programming in this environment is unforgiving, adding insult to injury. More work needs to be done on the engineering side to allow for "good enough" progrmaming. People speak algorithmically, not programatically. They slang. However, regular people need to be a bit more organized in order to be responsible with increasingly powerful technology. Otherwise we will be a Wall-E society. So, both sides need to extend an olive branch. 
+ I think the problem Caroline faces in Pseudo Code is completely legitimate. I face it daily. I did join a computer community, and learned a lot. I also found the community excessively aggressive, competitive, and threatening. Programming in this environment is unforgiving, adding insult to injury. More work needs to be done on the engineering side to allow for "good enough" programming. People speak algorithmically, not programatically. They slang. However, regular people need to be a bit more organized in order to be responsible with increasingly powerful technology. Otherwise we will be a Wall-E society. So, both sides need to extend an olive branch. 
 
 I would like to see a genre of Natural Language Novels which introduce Computer Conventions slowly and gradually, and thoroughly. This is my modest, best foot forward contribution to such an effort. I am reminded of my other passion, Sanskrit. How remarkable words like karma, guru, charka, namaste have made their way powerfully into our daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are not in regular vocabulary by my estimation. We are the poorer for it. And, it is a relatively easy fix. I wrote the first draft of this novella in one work day for free as a class project. 
 
