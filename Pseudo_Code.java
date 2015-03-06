@@ -105,7 +105,7 @@ Java is the language Old Mr. Computer speaks. Many programming languages are sim
 most popular programming language in computer science as of this writing. Knowing a bit of Java means knowing a bit 
 of computer science in general. 
 
-Moral of the Story: Circa 2015, programming syntax is highly technical, unforgiving, and idiosyncratic. There is no 
+Moral Of The Story: Circa 2015, programming syntax is highly technical, unforgiving, and idiosyncratic. There is no 
 getting around it. Caroline found joy in Java jargon by forgiving the rigidity of Old Mr. Computer. Can you?
 
 // Chapter 5: Caroline Chats With Old Mr. Computer
@@ -283,7 +283,7 @@ finding the right community is key, everything else file under magic. And do giv
 Magic takes time. Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
 literacy will do in this day and age. I know you can do it, my calculations are never wrong. Trust me."
 
-//Author's Endnote
+// Author's Endnote
 
  || "In the day, in the night, say it right, say it all / "           ||
  || "You either got it, or you don't, you either stand, or you fall." || 
