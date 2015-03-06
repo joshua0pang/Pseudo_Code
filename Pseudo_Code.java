@@ -266,7 +266,8 @@ Class Caroline_Waters_The_Flowers
 // The Need For Immersion
 
 Caroline sighs to herself. "Mr. Computer, I doubt I will ever learn your language. We're just too different. I feel 
-sad that I've myself resigned to this fate."
+sadness. I feel powerless. I do not see any option but to surrendered myself to this seemingly forever fated 
+miscommunication."
 Mr. Computer takes a minute to compute an answer. "Caroline, do you believe in magic?"
 An odd question coming from a computer.
 Caroline hesitantly replies, "Of course I do. Doesn't everybody?"
