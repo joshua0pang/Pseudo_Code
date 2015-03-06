@@ -41,7 +41,7 @@ Caroline greets her friend Mr. Sun the same way every morning, "Good morning, Mr
 Caroline has greeted each day every day in this way all her life. This is her World Famous Caroline Morning Loop! 
 "I wonder how The Flowers greet the new day?"
 Excited from her dream last night, Caroline jumps out of bed and runs to her friend Old Mr. Computer. She needs Mr. 
-Computer to remember the events of her dream because sometimes she forgets. Old Mr. Computer is Old Faithful 
+Computer to remember the events of her dream because sometimes she forgets. Old Mr. Computer is like Old Faithful 
 when it comes to remembering things for our friend Gardener Caroline.
 
 In her dream, Caroline found herself upset in the middle of her garden. Suddenly, all the flowers gathered around 
