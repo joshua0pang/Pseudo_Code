@@ -297,12 +297,14 @@ People speak algorithmically, not programatically. They slang. However, regular 
 organized in order to be responsible with increasingly powerful technology. Otherwise we will be a Wall-E society. 
 So, both sides need to extend an olive branch. 
 
-I would like to see a genre of Natural Language Novels which introduce Computer Conventions slowly and gradually, 
-and thoroughly. This is my modest, best foot forward contribution to such an effort. I am reminded of my other 
-passion, Sanskrit. How remarkable words like karma, guru, chakra, and namaste have made their way powerfully into our 
-daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are not in regular 
-vocabulary by my estimation. We are the poorer for it. And, it is a relatively easy fix. I wrote the first draft of 
-this novella in one work day for free as a class project. 
+I would like to see a genre of literature like Pseudo Codewhich introduce computer science structures slowly and 
+gradually, and thoroughly. Pseudo Code is my modest, best foot forward contribution to such an effort. I am reminded 
+of my other passion, Sanskrit. How remarkable words like karma, guru, chakra, and namaste have made their way 
+powerfully into our daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are 
+not in regular vocabulary by my estimation. As a budding Sanskrit teacher, I know that because a few Sanskrit words 
+are in our popular culture, Sanskrit teaching is highly enhanced. The lack of a few basic computer science terms in
+our popular culture means We are the poorer for it. And, it is a relatively easy fix. I wrote the first draft of 
+thisnovella in one work day for free as a class project. 
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort
 of the bridge between men and women, isn't it? Maybe fun is the bridge between computers and people. Something like 
