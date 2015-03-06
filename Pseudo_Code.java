@@ -227,7 +227,7 @@ Class(Caroline_Waters_The_Flowers)
 		// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
 		// just such precise instructions. Though this is almost universally tedious to regular folks, I 
 		// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
-		// to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
+		// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
 		// attention to detail just as much as computer does. And, both are completely unforgiving. If I 
 		// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
 		// speak.
