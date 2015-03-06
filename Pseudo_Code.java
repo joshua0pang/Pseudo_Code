@@ -299,7 +299,7 @@ So, both sides need to extend an olive branch.
 
 I would like to see a genre of Natural Language Novels which introduce Computer Conventions slowly and gradually, 
 and thoroughly. This is my modest, best foot forward contribution to such an effort. I am reminded of my other 
-passion, Sanskrit. How remarkable words like karma, guru, charka, namaste have made their way powerfully into our 
+passion, Sanskrit. How remarkable words like karma, guru, chakra, and namaste have made their way powerfully into our 
 daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are not in regular 
 vocabulary by my estimation. We are the poorer for it. And, it is a relatively easy fix. I wrote the first draft of 
 this novella in one work day for free as a class project. 
