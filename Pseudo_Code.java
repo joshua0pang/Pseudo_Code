@@ -199,6 +199,7 @@ differences, but essentially a sentence in English is a sentence in Java. If you
 On Planet Computer, where I am from, we explain ourselves through terse interspersed comments around code, let's try
 that method. Let me show you how I think"
 
+And so, Mr. Computer began his long-winded monologue, as is customary on Planet Computer 
 
 // Comments are denoted by the use of two forward slashes "//"
 
