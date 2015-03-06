@@ -165,7 +165,7 @@ wins.
 Mr. Computer had kept the braces like Caroline asked. However, shame-faced, Mr. Computer admitted he accidentally 
 added a few things. It looked like this:
 
-Schedule_For_My_Little_Flowers()
+Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday)
 {
 	While(In The Garden) 
 	{
