@@ -238,7 +238,8 @@ Class(Caroline_Waters_The_Flowers)
 		{
 			If(Today == Monday) // An "If" statement. Intuitive enough.
 			{ 
-				Return Water(Mr. Blue); //Return statements 
+				Return Water(Mr. Blue); // Return statement. This one happens to be recalling our 
+							// Water Function, see above.
 			}
 			Else If(Today == Tuesday) // Nearly identical to the others. Only the variables change.
 			{
