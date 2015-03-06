@@ -169,25 +169,25 @@ ScheduleForMyLittleFlowers()
 	While(In The Garden) 
 	{
 		If(Today == Monday)
-		{ 
-			Water(Mr. Blue);
-		}
+			{ 
+				Water(Mr. Blue);
+			}
 		Else If(Today == Tuesday)
-		{
-			Water(Ms. Yellow); 
-		}
+			{
+				Water(Ms. Yellow); 
+			}
 		Else If(Today == Wednesday)
-		{ 
-			Water(Mr. Green); 
-		}
+			{ 
+				Water(Mr. Green); 
+			}
 		Else If(Today == Thursday)
-		{
-			Read(A Book);
-		}
+			{
+				Read(A Book);
+			}
 		Else()	
-		{
-			Sing(A Song);
-		}
+			{
+				Sing(A Song);
+			}
 	}
 } 
 
