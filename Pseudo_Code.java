@@ -276,6 +276,10 @@ finding the right community is key, everything else file under magic. And do giv
 Magic takes time. Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
 literacy will do in this day and age. I know you can do it, my calculations are never wrong. Trust me."
 
+After a few days to digest Mr. Computer's recommendation, Caroline decided to hire a private computer science tutor
+during her free time. After all, she passion is for farming, this computer science buisness is just a favor to help
+Old Mr. Computer communicate.
+
 // Author's Endnote
 
  || "In the day, in the night, say it right, say it all / "           ||
