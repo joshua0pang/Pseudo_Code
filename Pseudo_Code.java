@@ -18,7 +18,7 @@ In computer science, we call this a loop.
 Moral Of The Story: Loops are how we recycle in computer science. Computers love to loop.
 
 // Chapter 2: Gardener Caroline 
-// Why we need structure
+// Why We Need Structure
 
 Caroline tends her garden lovingly. She cares for each little flower individually, "Hello little flower, how 
 are you this morning?" She smiles as she waters the thirsty plants. 
