@@ -253,12 +253,11 @@ Class Caroline_Waters_The_Flowers
 			{
 				Return Sing(A Song);
 			}
-		
 			// That seems fairly intuitive. Caroline taught us about braces, semicolons, all the jargon 
 			// symbols of Java. The rest reads a bit like a book, don't you think? If Today is Monday, 
 			// Water Mr. Blue. Simple. If you cannot see this, we have a problem. Seek technical support
 			// from a teacher.
-		} // Closes the "while in the garden" loop
+		} // Closes the "While in the garden" loop
 	} // Closes the "Schedule for my little flowers" function which not only details what to do when, but forces
 	// the program to actually do it. Caroline simply has to trust herself that she'll execute the actions she's
 	// set out for herself.
