@@ -128,7 +128,7 @@ around.
 Caroline was reminded of this when she was thinking about how to straighten out her problem. She realized Old Mr. 
 Computer could organize her thoughts with opening "{" and closing "}" braces like this:
 
-Email from Old Mr. Computer:
+E-mail from Old Mr. Computer:
 {
 	"Hi Caroline! Don't forget to feed The Flowers!"
 	"Your friend, Cornelius Computer."
