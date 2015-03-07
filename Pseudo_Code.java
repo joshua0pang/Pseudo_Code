@@ -210,13 +210,12 @@ Class Caroline_Waters_The_Flowers
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
 	// The Main Function is a like the plot of a novella. This is where the action happens.
-	// Any other function is basically a verb which uses varialbes which are basically nouns.  
-	// A function — something the program does — and variables — something the program can use to do things — 'returns'
-	// a product — something worth the effort of doing the action of a verb with a noun. A return statement is 
-	// similar to using a paragraph or series of paragraphs to make a point, or prove a thesis. The return 
-	// statement is the proven thesis. There may be many theses that need to be proven in order to prove a 
-	// hierarchically larger thesis. This is mildly pyramidal if you think about it, the bricks build higher 
-	// until the apex.
+	// Any other function is basically a verb within the plot.
+	// A function uses varialbes which are basically nouns.
+	// A function uses variables to 'return' a result.
+	// A return statement is like a thesis statement which one uses the structure of a sentence to logically prove.
+	// There may be many theses that need to be proven in order to prove a hierarchically larger thesis.
+	// This is mildly pyramidal if you think about it, the bricks build higher until the apex.
 		Function Water(A Flower)
 		{
 			Return Pour Water On Said Flower;
