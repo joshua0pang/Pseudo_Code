@@ -209,8 +209,9 @@ Class Caroline_Waters_The_Flowers
 	// A class defines a program in Java. Let's say a program is like an novella.
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
-	// The  main function is a like the plot of a novella. A regular function usually contains a series of verbs
-	// — something the  program does — and nouns — something the computer can use to do things — which 'returns'
+	// The Main Function is a like the plot of a novella. This is where the action happens.
+	// Any other function is basically a verb which uses varialbes which are basically nouns.  
+	// A function — something the program does — and variables — something the program can use to do things — 'returns'
 	// a product — something worth the effort of doing the action of a verb with a noun. A return statement is 
 	// similar to using a paragraph or series of paragraphs to make a point, or prove a thesis. The return 
 	// statement is the proven thesis. There may be many theses that need to be proven in order to prove a 
