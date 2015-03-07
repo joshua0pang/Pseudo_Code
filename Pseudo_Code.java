@@ -138,11 +138,11 @@ Caroline, the very happy gardener that she was, wrote a schedule with the help o
 
 Schedule For My Little Flowers by Caroline
 { 
-	If it is Monday, then water "Mr. Blue"
-	If it is Tuesday, then water "Ms. Yellow"
-	If it is Wednesday, then water "Mr. Green"
-	If it is Thursday, then read a book to The Flowers.
-	If it is Friday, then sing a song to The Flowers.
+	If today is Monday, then water "Mr. Blue"
+	If today is Tuesday, then water "Ms. Yellow"
+	If today is Wednesday, then water "Mr. Green"
+	If today is Thursday, then read a book to The Flowers.
+	If today is Friday, then sing a song to The Flowers.
 } 
 
 Caroline found the braces to be very useful in organizing her ideas. She started to use them anytime she worked with
