@@ -116,7 +116,7 @@ Every Wednesday for as long as she could remember, Caroline remembered to water 
 On one unusual Wednesday, Caroline plum forgot.
 Thursday morning, she found Mr. Green wilting with woe.
 "My dear little flower! Why do you wilt with woe?"
-"Oh Caroline, you did not visit me yesterday. I've have had nothing to drink, and I'm parched with thirst. I'm 
+"Oh Caroline, you did not visit me yesterday. I've had nothing to drink, and I'm parched with thirst. I'm 
 exhausted, and too dry to even cry."
 
 At that very moment, Caroline resolved herself to never again forget to feed any one of The Flowers. She went home 
