@@ -110,7 +110,7 @@ Moral Of The Story: Circa 2015, programming syntax is highly technical, unforgiv
 getting around it. Caroline found joy in Java jargon by forgiving the rigidity of Old Mr. Computer. Can you?
 
 // Chapter 5: Caroline Chats With Old Mr. Computer
-// Indent Style In Java
+// Indent Style In Java and Introduction to Conditionals
 
 Every Wednesday for as long as she could remember, Caroline remembered to water Mr. Green.
 On one unusual Wednesday, Caroline plum forgot.
