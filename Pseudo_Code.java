@@ -198,9 +198,9 @@ made.
 "Well Caroline, if you think about it, Java and English are not that far apart. There are just a few grammatical 
 differences, but essentially a sentence in English is a sentence in Java. If you can understand this, you'll go far.
 On Planet Computer, where I am from, we explain ourselves through terse interspersed comments around code. Let's try
-that method. Let me show you how I think"
+that method. Let me show you how I think."
 
-And so, Mr. Computer began his long-winded monologue, as is customary on Planet Computer 
+And so, Mr. Computer began his long-winded monologue, as is customary on Planet Computer. 
 
 // Comments are denoted by the use of two forward slashes "//"
 
