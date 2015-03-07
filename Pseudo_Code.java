@@ -34,7 +34,7 @@ In computer science, we need data structures to manage the plethora of binary co
 // Chapter 3: Gardener Caroline Dreams A Solution 
 // An Introduction to Declaring and Instantiating Variables
 
-Caroline awakes to the first light of dawn. 
+Caroline awakens to the first light of dawn. 
 Every morning Caroline does a few basic things the same way. Essentially, her morning routine is a loop. 
 The first thing she does every morning is yawn. After a good yawn, she stretches a nice long stretch. 
 Caroline greets her friend Mr. Sun the same way every morning, "Good morning, Mr. Sun!" 
