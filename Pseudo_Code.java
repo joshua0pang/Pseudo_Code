@@ -138,9 +138,9 @@ Caroline, the very happy gardener that she was, wrote a schedule with the help o
 
 Schedule For My Little Flowers by Caroline:
 { 
-	If today is Monday, then water "Mr. Blue"
-	If today is Tuesday, then water "Ms. Yellow"
-	If today is Wednesday, then water "Mr. Green"
+	If today is Monday, then water "Mr. Blue".
+	If today is Tuesday, then water "Ms. Yellow".
+	If today is Wednesday, then water "Mr. Green".
 	If today is Thursday, then read a book to The Flowers.
 	If today is Friday, then sing a song to The Flowers.
 } 
