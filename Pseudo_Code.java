@@ -218,7 +218,9 @@ Class Caroline_Waters_The_Flowers
 	// This is mildly pyramidal if you think about it, the bricks build higher until the apex.
 		Function Water(A Flower)
 		{
-			Return Pour Water On Said Flower;
+			Get(Water From Well);
+			Carry(Water To The Garden);
+			Return Pour(Water On Said Flower);
 		}
 		// In a computer program, everything needs to be exactly explicitly defined. We might not think of 
 		// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
