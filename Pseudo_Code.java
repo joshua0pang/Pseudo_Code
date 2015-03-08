@@ -232,7 +232,7 @@ Class Caroline_Waters_The_Flowers
 		// speak.
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
-		// allow the function to run. The technical term is "input."
+		// allow the function to run. The technical term is "input".
 		{
 			If(Today == Monday) // An "If" statement. Intuitive enough.
 			{ 
