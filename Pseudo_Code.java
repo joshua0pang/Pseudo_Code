@@ -68,9 +68,9 @@ her second finger for Ms. Yellow, and a green string around her third finger for
 Remembering how she used to remember things, Caroline asked Old Mr. Computer to remember the names of The Flowers 
 like this:
 
-Blue String = "Mr. Blue"
-Yellow String = "Ms. Yellow"
-Green String = "Mr. Green"
+Blue String = "Mr. Blue".
+Yellow String = "Ms. Yellow".
+Green String = "Mr. Green".
 
 Caroline simply cannot remember the last time she was this happy. The Flowers all introduced themselves to her!!! 
 And they said they love everything about how she cares for them. She can hardly contain her glee.
