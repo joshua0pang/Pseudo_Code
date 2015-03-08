@@ -134,7 +134,7 @@ E-mail from Old Mr. Computer:
 	"Your friend, Cornelius Computer."
 }
 
-Caroline, the very happy gardener that she was, wrote a schedule with the help of her friend Old Mr. Computer
+Caroline, the very happy gardener that she was, wrote a schedule with the help of her friend Old Mr. Computer.
 
 Schedule For My Little Flowers by Caroline
 { 
