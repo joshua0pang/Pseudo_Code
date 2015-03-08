@@ -275,7 +275,7 @@ An odd question coming from a computer.
 Caroline hesitantly replies, "Of course I do. Doesn't everybody?"
 Mr. Computer smiles, "Caroline, I think I know how we can bridge this gap. You're outgoing and friendly, at least 
 that's what The Flowers tell me. Go find some people you enjoy spending time with who know Computer-ese. I think 
-finding the right community is key, everything else file under magic. And do give yourself lots of time, be patient.
+finding the right community is key, everything else file under magic. And do give yourself lots of time. Be patient.
 Magic takes time. Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
 literacy will do in this day and age. I know you can do it, my calculations are never wrong. Trust me."
 
