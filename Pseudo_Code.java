@@ -18,7 +18,7 @@ In computer science, we call this a loop.
 Moral Of The Story: Loops are how we recycle in computer science. Computers love to loop.
 
 // Chapter 2: Gardener Caroline 
-// Why We Need Structure
+// Why we need structure
 
 Caroline tends her garden lovingly. She cares for each little flower individually, "Hello little flower, how 
 are you this morning?" She smiles as she waters the thirsty plants. 
@@ -68,9 +68,9 @@ her second finger for Ms. Yellow, and a green string around her third finger for
 Remembering how she used to remember things, Caroline asked Old Mr. Computer to remember the names of The Flowers 
 like this:
 
-Blue String = "Mr. Blue".
-Yellow String = "Ms. Yellow".
-Green String = "Mr. Green".
+Blue String = "Mr. Blue"
+Yellow String = "Ms. Yellow"
+Green String = "Mr. Green"
 
 Caroline simply cannot remember the last time she was this happy. The Flowers all introduced themselves to her!!! 
 And they said they love everything about how she cares for them. She can hardly contain her glee.
