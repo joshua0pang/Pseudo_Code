@@ -113,7 +113,7 @@ getting around it. Caroline found joy in Java jargon by forgiving the rigidity o
 // Indent Style In Java and Introduction to Conditionals
 
 Every Wednesday for as long as she could remember, Caroline remembered to water Mr. Green.
-On one unusual Wednesday, Caroline plum forgot.
+On one unusual Wednesday, Caroline plumb forgot.
 Thursday morning, she found Mr. Green wilting with woe.
 "My dear little flower! Why do you wilt with woe?"
 "Oh Caroline, you did not visit me yesterday. I've had nothing to drink, and I'm parched with thirst. I'm 
