@@ -269,7 +269,8 @@ Class Caroline_Waters_The_Flowers
 // The Need For Immersion
 
 Caroline sighs to herself. "Mr. Computer, I doubt I will ever learn your language. We're just too different. I feel 
-sadness. I feel powerless. I do not see any option but to surrender myself to this seemingly forever fated miscommunication."
+sadness. I feel powerless. I do not see any option but to surrender myself to this seemingly forever fated 
+miscommunication." 
 Mr. Computer takes a minute to compute an answer. "Caroline, do you believe in magic?"
 An odd question coming from a computer.
 Caroline hesitantly replies, "Of course I do. Doesn't everybody?"
@@ -292,8 +293,8 @@ favor to help Old Mr. Computer communicate.
 
 I think the problem Caroline faces in Pseudo Code is completely legitimate. I face it daily. I did join a computer 
 community, and learned a lot. I also found the community excessively aggressive, competitive, and threatening. All
-Yang and no Yin. Programming in an environment where mistakes are abundant, but each mistake inches you closer to shame:
-this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" 
+Yang and no Yin. Programming in an environment where mistakes are abundant, but each mistake inches you closer to 
+shame: this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" 
 programming. People speak algorithmically, not programatically. They slang. However, regular people need to be a bit
 more organized in order to be responsible with increasingly powerful technology. Otherwise we will be a Wall-E 
 society. So, both sides need to extend an olive branch. 
