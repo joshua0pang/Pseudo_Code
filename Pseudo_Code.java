@@ -1,3 +1,21 @@
+TRY SOMETHING
+-Let’s make a petal by putting two QCIRCLES together.
+-OK. What size?
+-How about 50?
+-It didn't work
+- Of course! Two QCIRCLES make a
+semicircle.
+FIX THE BUG
+-We have to turn the Turtle between
+QCIRCLES.
+-Try 120°.
+-OK, that worked for triangles. And let’s
+hide the Turtle by typing HIDETURTLE.
+QCIPCLE 58 LEFT 129 QCIRCLE 5
+What's going on?
+- Try a right turn
+
+
 Preface // Read Me
 
 "Welcome to Pseudo Code. In this novella, we'll be sharing small, relaxing tales which sneak in byte sized bits of 
