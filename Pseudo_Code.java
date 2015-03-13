@@ -95,6 +95,8 @@ String Blue = "Mr. Blue";
 String Yellow = "Ms. Yellow";
 String Green = "Mr. Green";
 
+When Caroline asked Old Mr. Computer if he could change her language back to normal, he simply shook his head in defeat.
+
 Caroline did not know why the some of the words got topsy-turvy, nor why a few friendly semicolons appeared, but so 
 long as they were harmless, she was happy the way they were. "Nature is beautiful, and so are computers. All I have 
 to do is see for myself!"
@@ -104,7 +106,8 @@ getting to know his lingo — called Java — a creative project. Old Mr. Comput
 communicate. He has many important things to say. Caroline never leaves a friend in need!
 
 Little did Caroline know, she was writing her first computer program in the modern programming language of Java. 
-Java is the language Old Mr. Computer speaks. Many programming languages are similar in nature to Java. Java is the 
+Java is the mother tongue Old Mr. Computer speaks. English, which is the mother tongue of Gardener Caroline, is his 
+second language. Many programming languages are similar in nature to Java. Java is the 
 most popular programming language in computer science as of this writing. Knowing a bit of Java means knowing a bit 
 of computer science in general. 
 
@@ -161,8 +164,8 @@ Old Mr. Computer was feeling a little buggy as usual.
 One morning, Caroline was chatting with Mr. Computer and found out he had confused a few things. Being the kind and 
 patient person she is, and given that his mistakes were harmless, she was happy the way they were. In fact, Old Mr. 
 Computer is endearing to her heart because of his quirky glitches. With an air of humor, Caroline imagines it is her
-job to fix his faults. She does not take her job seriously, and solely focuses on having fun. This way, everyone 
-wins.
+sacred duty to correct his communication. She does not take her job seriously, and solely focuses on having fun. 
+This way, everyone wins.
 
 Mr. Computer had kept the braces like Caroline asked. However, shame-faced, Mr. Computer admitted he accidentally 
 added a few things. It looked like this:
@@ -202,13 +205,22 @@ differences, but essentially a sentence in English is a sentence in Java. If you
 On Planet Computer, where I am from, we explain ourselves through terse interspersed comments around code. Let's try
 that method. Let me show you how I think."
 
-And so, Mr. Computer began his long-winded monologue, as is customary on Planet Computer. 
+And so, Mr. Computer began his long-winded monologue without interruption, as is customary on Planet Computer. 
 
 // Comments are denoted by the use of two forward slashes "//"
 
 Class Caroline_Waters_The_Flowers
 { 
 	// A class defines a program in Java. Let's say a program is like an novella.
+	String Blue = "Mr. Blue";
+	String Yellow = "Ms. Yellow";
+	String Green = "Mr. Green";
+	// Conventionally variables are declared at the beginning of a program. These are the strings we saw from 
+	// above. We would need a variable for everything, but this is Pseudo Code and meant to be taken lightly.
+	// As long as you get the picture, that's all that matters. Or said more technically, syntax trumps semantics.
+	// Scope is worth mentioning here. Variables delcared independently are called "global", and are "immutable."
+	// Variables delcared inside a function are dependent, and will not technically exist beyond the scope of the 
+	// parent function. 
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
 	// The Main Function is a like the plot of a novella. This is where the action happens.
@@ -229,23 +241,24 @@ Class Caroline_Waters_The_Flowers
 		// just such precise instructions. Though this is almost universally tedious to regular folks, I 
 		// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
 		// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
-		// attention to detail just as much as computer does. And, both are completely unforgiving. If I 
+		// attention to detail just as much as a computer does. And, both are technically unforgiving. If I 
 		// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
-		// speak.
+		// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmtic.
+		// I.E. Psuedo Code.
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
-		// allow the function to run. The technical term is "input".
+		// allow the function to run. The technical term is "input". This reads the same in Enlgish as Java.
+		// "While in the garden, do the actions of a gardener. While not in the garden, do something else."
 		{
 			If(Today == Monday) // An "If" statement. Intuitive enough.
 			{ 
-				Return Water(Mr. Blue); // Return statement. This one happens to be recalling our 
-							// Water Function, see above.
+				Return Water(Mr. Blue); // Return statement. This looks a lot like English on purpose.
 			}
-			Else If(Today == Tuesday) // Nearly identical to the others. Only the variables change.
+			Else If(Today == Tuesday) // Nearly identical to the others. Only the day of the week changes.
 			{
-				Return Water(Ms. Yellow); 
+				Return Water(Ms. Yellow); // Here, the varialbe that changes is who to water.
 			}
-			Else If(Today == Wednesday)
+			Else If(Today == Wednesday) // Etc.
 			{ 
 				Return Water(Mr. Green); 
 			}
@@ -262,9 +275,7 @@ Class Caroline_Waters_The_Flowers
 			// Water Mr. Blue. Simple. If you cannot see this, we have a problem. Seek technical support
 			// from a teacher.
 		} // Closes the "While in the garden" loop
-	} // Closes the "Schedule for my little flowers" function which not only details what to do when, but forces
-	// the program to actually do it. Caroline simply has to trust herself that she'll execute the actions she's
-	// set out for herself.
+	} // Closes the "Schedule for my little flowers" function.
 } // Closes the class "Caroline waters the flowers."
 
 // Epilogue: Caroline Travels To Planet Computer
@@ -280,12 +291,12 @@ Mr. Computer smiles, "Caroline, I think I know how we can bridge this gap. You'r
 that's what The Flowers tell me. Go find some people you enjoy spending time with who know Computer-ese. I think 
 finding the right community is key, everything else file under magic. And do give yourself lots of time. Be patient.
 Magic takes time. Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
-literacy will do in this day and age. I know you can do it, my calculations are never wrong. Trust me."
-Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations to do."
+computer literacy will do in this day and age. I know you can do it, my calculations are always correct. Trust me."
+Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations of my own to do."
 
 After a few weeks to digest the solemn words of Mr. Computer, Caroline decided to work with a private computer 
-science tutor during her free time. After all, her passion is for farming. This computer science buisness is just a 
-favor to help Old Mr. Computer communicate.
+science tutor during her weekends. After all, her passion is for farming. This computer science buisness is just a 
+favor to help Old Mr. Computer communicate. Well, that is one way to put it.
 
 // Author's Endnote
 
