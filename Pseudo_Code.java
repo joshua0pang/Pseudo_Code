@@ -164,7 +164,7 @@ Old Mr. Computer was feeling a little buggy as usual.
 One morning, Caroline was chatting with Mr. Computer and found out he had confused a few things. Being the kind and 
 patient person she is, and given that his mistakes were harmless, she was happy the way they were. In fact, Old Mr. 
 Computer is endearing to her heart because of his quirky glitches. With an air of humor, Caroline imagines it is her
-holy responsibility to correct his communication. She does not take her job seriously, and solely focuses on having fun. 
+sacred duty to correct his communication. She does not take her job seriously, and solely focuses on having fun. 
 This way, everyone wins.
 
 Mr. Computer had kept the braces like Caroline asked. However, shame-faced, Mr. Computer admitted he accidentally 
@@ -290,11 +290,12 @@ Caroline hesitantly replies, "Of course I do. Doesn't everybody?"
 Mr. Computer smiles, "Caroline, I think I know how we can bridge this gap. You're outgoing and friendly, at least 
 that's what The Flowers tell me. Go find some people you enjoy spending time with who know Computer-ese. I think 
 finding the right community is key, everything else file under magic. And do give yourself lots of time. Be patient.
-Magic takes time. Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
+Magic takes time. What is it that they say in Santa Cruz? "The Goddess is alive and magic is afoot!"
+Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
 computer literacy will do in this day and age. I know you can do it, my calculations are always correct. Trust me."
 Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations of my own to do."
 
-After a few weeks to digest the solemn words of Mr. Computer, Caroline decided to work with a private computer 
+After a few weeks to digest the solemn words of Mr. Computer, Caroline decided to work with an awesome computer 
 science tutor during her weekends. After all, her passion is for farming. This computer science buisness is just a 
 favor to help Old Mr. Computer communicate. Well, that is one way to put it.
 
@@ -305,12 +306,14 @@ favor to help Old Mr. Computer communicate. Well, that is one way to put it.
  	- Say It Right, Nelly Furtado 
 
 I think the problem Caroline faces in Pseudo Code is completely legitimate. I face it daily. I did join a computer 
-community, and learned a lot. I also found the community excessively aggressive, competitive, and threatening. All
+community, and learned a lot. I also found the community excessively competitive, aggressive, and threatening. All
 Yang and no Yin. Programming in an environment where mistakes are abundant, but each mistake inches you closer to 
 shame: this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" 
-programming. People speak algorithmically, not programatically. They slang. However, regular people need to be a bit
-more organized in order to be responsible with increasingly powerful technology. Otherwise we will be a Wall-E 
-society. So, both sides need to extend an olive branch. 
+programming. People speak algorithmically, not programatically. They slang. Natural Language *is* Pseudo Code.
+Ariticial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
+However, regular people do need to be a bit more organized in their speech — i.e. more artificial/formal language
+and less natural/informal language — in order to be responsible with increasingly powerful technology. 
+Otherwise we will be a Wall-E society. So, both sides need to extend an olive branch. 
 
 I would like to see a genre of literature like Pseudo Code which introduce computer science structures slowly and 
 gradually, and thoroughly. Pseudo Code is my modest, best foot forward contribution to such an effort. I am reminded 
@@ -318,8 +321,8 @@ of my other passion, Sanskrit. How remarkable words like karma, guru, chakra, an
 powerfully into our daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are 
 not in regular vocabulary by my estimation. As a budding Sanskrit teacher, I know that because a few Sanskrit words 
 are in our popular culture, Sanskrit teaching is the richer for it. The lack of a few basic computer science terms 
-in our popular culture means we are the poorer for it. And, it is a relatively easy fix. I wrote the first draft of 
-this novella in one work day for free as a class project. 
+in our popular culture means computer science teaching the poorer for it. And, it is a relatively easy fix. 
+I wrote the raw form first draft of this novella in one work day for free as a class project. 
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort
 of the bridge between men and women, isn't it? Maybe fun is the bridge between computers and people. Something like 
