@@ -164,7 +164,7 @@ Old Mr. Computer was feeling a little buggy as usual.
 One morning, Caroline was chatting with Mr. Computer and found out he had confused a few things. Being the kind and 
 patient person she is, and given that his mistakes were harmless, she was happy the way they were. In fact, Old Mr. 
 Computer is endearing to her heart because of his quirky glitches. With an air of humor, Caroline imagines it is her
-sacred duty to correct his communication. She does not take her job seriously, and solely focuses on having fun. 
+holy responsibility to correct his communication. She does not take her job seriously, and solely focuses on having fun. 
 This way, everyone wins.
 
 Mr. Computer had kept the braces like Caroline asked. However, shame-faced, Mr. Computer admitted he accidentally 
