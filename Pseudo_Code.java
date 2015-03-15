@@ -111,7 +111,7 @@ second language. Many programming languages are similar in nature to Java. Java 
 most popular programming language in computer science as of this writing. Knowing a bit of Java means knowing a bit 
 of computer science in general. 
 
-Moral Of The Story: Circa 2015, programming syntax is highly technical, unforgiving, and idiosyncratic. There is no 
+Moral Of The Story: Circa 2015, programming syntax is highly technical, idiosyncratic, and unforgiving. There is no 
 getting around it. Caroline found joy in Java jargon by forgiving the rigidity of Old Mr. Computer. Can you?
 
 // Chapter 5: Caroline Chats With Old Mr. Computer
