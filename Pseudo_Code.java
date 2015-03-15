@@ -99,7 +99,7 @@ When Caroline asked Old Mr. Computer if he could change her language back to nor
 
 Caroline did not know why the some of the words got topsy-turvy, nor why a few friendly semicolons appeared, but so 
 long as they were harmless, she was happy the way they were. "Nature is beautiful, and so are computers. All I have 
-to do is see for myself!"
+to do is look!"
 
 Caroline loves Old Mr. Computer unconditionally. They have known each other for all their lives. She has made 
 getting to know his lingo — called Java — a creative project. Old Mr. Computer needs Caroline to help him 
