@@ -241,7 +241,7 @@ Class Caroline_Waters_The_Flowers
 		// just such precise instructions. Though this is almost universally tedious to regular folks, I 
 		// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
 		// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
-		// attention to detail just as much as a computer does. And, both are technically unforgiving. If I 
+		// attention to detail just as much as a computer does. And, both are technically merciless. If I 
 		// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
 		// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmtic.
 		// I.E. Psuedo Code.
