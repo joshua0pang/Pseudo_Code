@@ -1,4 +1,5 @@
 PSEUDO CODE
+by Josh Pang
 
 Preface // Read Me
 
