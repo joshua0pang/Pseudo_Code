@@ -10,3 +10,5 @@ this
 ```
 Anytime you are confused by something, Google it. Search Wikipedia. 
 That's a good algorithm.
+
+https://youtu.be/XhieuBA9RO8
