@@ -323,7 +323,6 @@ powerfully into our daily life. However, "Return Statement" and "Indent Styles" 
 not in regular vocabulary by my estimation. As a budding Sanskrit teacher, I know that because a few Sanskrit words 
 are in our popular culture, Sanskrit teaching is the richer for it. The lack of a few basic computer science terms 
 in our popular culture means computer science teaching the poorer for it. And, it is a relatively easy fix. 
-I wrote the raw form first draft of this novella in one work day for free as a class project. 
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort
 of the bridge between men and women, isn't it? Maybe fun is the bridge between computers and people. Something like 
