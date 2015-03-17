@@ -325,7 +325,7 @@ are in our popular culture, Sanskrit teaching is the richer for it. The lack of 
 in our popular culture means computer science teaching the poorer for it. And, it is a relatively easy fix. 
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort
-of the bridge between men and women, isn't it? Maybe fun is the bridge between computers and people. Something like 
+of the bridge between men and women... Maybe fun is the bridge between computers and people. Something like 
 that.
 
 —Josh यशस्वी Pang 
