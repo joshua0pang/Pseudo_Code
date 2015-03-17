@@ -200,7 +200,8 @@ Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday)
 
 Gathering her energy, Caroline slowly and gradually asked Old Mr. Computer a few questions about the changes he had 
 made.
-"Dear Mr. Computer, can you explain how you changed my schedule from English to Java?"
+"Dear Mr. Computer, you are perfect and awesome. But I cannot fathom this new language."
+"Can you explain how you transformed my schedule from English to Java?"
 "Well Caroline, if you think about it, Java and English are not that far apart. There are just a few grammatical 
 differences, but essentially a sentence in English is a sentence in Java. If you can understand this, you'll go far.
 On Planet Computer, where I am from, we explain ourselves through terse interspersed comments around code. Let's try
