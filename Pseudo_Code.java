@@ -319,7 +319,7 @@ Otherwise we will be a society like in Walle-E. So, both sides need to extend an
 
 I would like to see a genre of literature like Pseudo Code which introduce computer science structures slowly and 
 gradually, and thoroughly. Pseudo Code is my modest, best foot forward contribution to such an effort. I am reminded 
-of my other passion, Sanskrit. How remarkable words like karma, guru, chakra, and namaste have made their way 
+of my other passion, Sanskrit. How remarkable words like "karma", "yoga", "guru", and "chakra" have made their way 
 powerfully into our daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are 
 not in regular vocabulary by my estimation. As a budding Sanskrit teacher, I know that because a few Sanskrit words 
 are in our popular culture, Sanskrit teaching is the richer for it. The lack of a few basic computer science terms 
