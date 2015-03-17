@@ -222,6 +222,21 @@ Class Caroline_Waters_The_Flowers
 	// Scope is worth mentioning here. Variables declared independently are called "global", and are "immutable."
 	// Variables declared inside a function are dependent, and will not technically exist beyond the scope of the 
 	// parent function. 
+	Function Water(A Flower)
+	{
+		Get(Water From Well);
+		Carry(Water To The Garden);
+		Return Pour(Water On Said Flower);
+	}
+	// In a computer program, everything needs to be exactly explicitly defined. We might not think of 
+	// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
+	// just such precise instructions. Though this is almost universally tedious to regular folks, I 
+	// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
+	// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
+	// attention to detail just as much as a computer does. And, both are technically merciless. If I 
+	// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
+	// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmtic.
+	// I.E. Psuedo Code.
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
 	// The Main Function is a like the plot of a novella. This is where the action happens.
@@ -231,21 +246,6 @@ Class Caroline_Waters_The_Flowers
 	// A return statement is like a thesis statement which one uses the structure of a sentence to logically prove.
 	// There may be many theses that need to be proven in order to prove a hierarchically larger thesis.
 	// This is mildly pyramidal if you think about it, the bricks build higher until the apex.
-		Function Water(A Flower)
-		{
-			Get(Water From Well);
-			Carry(Water To The Garden);
-			Return Pour(Water On Said Flower);
-		}
-		// In a computer program, everything needs to be exactly explicitly defined. We might not think of 
-		// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
-		// just such precise instructions. Though this is almost universally tedious to regular folks, I 
-		// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
-		// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
-		// attention to detail just as much as a computer does. And, both are technically merciless. If I 
-		// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
-		// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmtic.
-		// I.E. Psuedo Code.
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
 		// allow the function to run. The technical term is "input". This reads the same in Enlgish as Java.
