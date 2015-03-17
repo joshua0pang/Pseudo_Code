@@ -314,7 +314,7 @@ programming. People speak algorithmically, not programatically. They slang. Natu
 Ariticial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
 However, regular people do need to be a bit more organized in their speech — i.e. more artificial/formal language
 and less natural/informal language — in order to be responsible with increasingly powerful technology. 
-Otherwise we will be a Wall-E society. So, both sides need to extend an olive branch. 
+Otherwise we will be a society like in Walle-E. So, both sides need to extend an olive branch. 
 
 I would like to see a genre of literature like Pseudo Code which introduce computer science structures slowly and 
 gradually, and thoroughly. Pseudo Code is my modest, best foot forward contribution to such an effort. I am reminded 
