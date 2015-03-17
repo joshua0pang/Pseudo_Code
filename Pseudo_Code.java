@@ -219,7 +219,7 @@ Class Caroline_Waters_The_Flowers
 	// Conventionally variables are declared at the beginning of a program. These are the strings we saw from 
 	// above. We would need a variable for everything, but this is Pseudo Code and meant to be taken lightly.
 	// As long as you get the picture, that's all that matters. Or said more technically, syntax trumps semantics.
-	// Scope is worth mentioning here. Variables declared independently are called "global", and are "immutable."
+	// Scope is worth mentioning here. Variables declared independently are called "global", and are "immutable".
 	// Variables declared inside a function are dependent, and will not technically exist beyond the scope of the 
 	// parent function. 
 	Function Water(A Flower)
