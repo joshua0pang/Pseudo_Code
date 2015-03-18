@@ -236,7 +236,7 @@ Class Caroline_Waters_The_Flowers
 	// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
 	// attention to detail just as much as a computer does. And, both are technically merciless. If I 
 	// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
-	// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmtic.
+	// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmatic.
 	// I.E. Psuedo Code.
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
@@ -311,7 +311,7 @@ I think the problem Caroline faces in Pseudo Code is completely legitimate. I fa
 community, and learned a lot. I also found the community excessively competitive, aggressive, and threatening. All
 Yang and no Yin. Programming in an environment where mistakes are abundant, but each mistake inches you closer to 
 shame: this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" 
-programming. People speak algorithmically, not programatically. They slang. Natural Language *is* Pseudo Code.
+programming. People speak algorithmically, not programmatically. They slang. Natural Language *is* Pseudo Code.
 Ariticial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
 However, regular people do need to be a bit more organized in their speech — i.e. more artificial/formal language
 and less natural/informal language — in order to be responsible with increasingly powerful technology. 
