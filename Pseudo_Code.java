@@ -258,7 +258,7 @@ Class Caroline_Waters_The_Flowers
 			}
 			Else If(Today == Tuesday) // Nearly identical to the others. Only the day of the week changes.
 			{
-				Return Water(Ms. Yellow); // Here, the varialbe that changes is who to water.
+				Return Water(Ms. Yellow); // Here, the variable that changes is who to water.
 			}
 			Else If(Today == Wednesday) // Etc.
 			{ 
