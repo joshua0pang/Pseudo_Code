@@ -327,6 +327,6 @@ in our popular culture means computer science teaching is the poorer for it. And
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort
 of the bridge between men and women... Maybe fun is the bridge between computers and people. Something like 
-that.
+that. Words to that effect.
 
 —Josh यशस्वी Pang 
