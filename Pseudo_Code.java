@@ -233,11 +233,11 @@ Class Caroline_Waters_The_Flowers
 	// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
 	// just such precise instructions. Though this is almost universally tedious to regular folks, I 
 	// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
-	// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
+	// to how to sauté a flambé. We sublimate so many "functions" we forget that reality requires this 
 	// attention to detail just as much as a computer does. And, both are technically merciless. If I 
 	// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
 	// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmatic.
-	// I.E. Psuedo Code.
+	// I.E. Pseudo Code.
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
 	// The Main Function is a like the plot of a novella. This is where the action happens.
@@ -249,7 +249,7 @@ Class Caroline_Waters_The_Flowers
 	// This is mildly pyramidal if you think about it, the bricks build higher until the apex.
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
-		// allow the function to run. The technical term is "input". This reads the same in Enlgish as Java.
+		// allow the function to run. The technical term is "input". This reads the same in English as Java.
 		// "While in the garden, do the actions of a gardener. While not in the garden, do something else."
 		{
 			If(Today == Monday) // An "If" statement. Intuitive enough.
