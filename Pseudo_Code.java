@@ -295,7 +295,7 @@ finding the right community is key, everything else file under magic. And do giv
 Magic takes time. What is it that they say in Santa Cruz? "The Goddess is alive and magic is afoot!"
 Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
 computer literacy will do in this day and age. I know you can do it, my calculations are always correct. Trust me."
-Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations of my own to do."
+Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations to do."
 
 After a few weeks to digest the solemn words of Mr. Computer, Caroline decided to work with an awesome computer 
 science tutor during her weekends. After all, her passion is for farming. This computer science business is just a 
