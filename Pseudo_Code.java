@@ -312,7 +312,7 @@ community, and learned a lot. I also found the community excessively competitive
 Yang and no Yin. Programming in an environment where mistakes are abundant, but each mistake inches you closer to 
 shame: this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" 
 programming. People speak algorithmically, not programmatically. They slang. Natural Language *is* Pseudo Code.
-Ariticial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
+Artificial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
 However, regular people do need to be a bit more organized in their speech — i.e. more artificial/formal language
 and less natural/informal language — in order to be responsible with increasingly powerful technology. 
 Otherwise we will be a society like in Walle-E. So, both sides need to extend an olive branch. 
