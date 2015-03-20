@@ -298,7 +298,7 @@ computer literacy will do in this day and age. I know you can do it, my calculat
 Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations of my own to do."
 
 After a few weeks to digest the solemn words of Mr. Computer, Caroline decided to work with an awesome computer 
-science tutor during her weekends. After all, her passion is for farming. This computer science buisness is just a 
+science tutor during her weekends. After all, her passion is for farming. This computer science business is just a 
 favor to help Old Mr. Computer communicate. Well, that is one way to put it.
 
 // Author's Endnote
