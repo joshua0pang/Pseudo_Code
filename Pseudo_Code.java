@@ -200,7 +200,8 @@ Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday)
 
 Gathering her energy, Caroline slowly and gradually asked Old Mr. Computer a few questions about the changes he had 
 made.
-"Dear Mr. Computer, can you explain how you changed my schedule from English to Java?"
+"Dear Mr. Computer, you are perfect and awesome. But I cannot fathom this new language."
+"Can you explain how you transformed my schedule from English to Java?"
 "Well Caroline, if you think about it, Java and English are not that far apart. There are just a few grammatical 
 differences, but essentially a sentence in English is a sentence in Java. If you can understand this, you'll go far.
 On Planet Computer, where I am from, we explain ourselves through terse interspersed comments around code. Let's try
@@ -219,36 +220,36 @@ Class Caroline_Waters_The_Flowers
 	// Conventionally variables are declared at the beginning of a program. These are the strings we saw from 
 	// above. We would need a variable for everything, but this is Pseudo Code and meant to be taken lightly.
 	// As long as you get the picture, that's all that matters. Or said more technically, syntax trumps semantics.
-	// Scope is worth mentioning here. Variables delcared independently are called "global", and are "immutable."
-	// Variables delcared inside a function are dependent, and will not technically exist beyond the scope of the 
+	// Scope is worth mentioning here. Variables declared independently are called "global", and are "immutable".
+	// Variables declared inside a function are dependent, and will not technically exist beyond the scope of the 
 	// parent function. 
+	Function Water(A Flower)
+	{
+		Get(Water From Well);
+		Carry(Water To The Garden);
+		Return Pour(Water On Said Flower);
+	}
+	// In a computer program, everything needs to be exactly explicitly defined. We might not think of 
+	// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
+	// just such precise instructions. Though this is almost universally tedious to regular folks, I 
+	// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
+	// to how to sauté a flambé. We sublimate so many "functions" we forget that reality requires this 
+	// attention to detail just as much as a computer does. And, both are technically merciless. If I 
+	// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
+	// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmatic.
+	// I.E. Pseudo Code.
 	Main Function(Schedule_For_My_Little_Flowers(Monday, Tuesday, Wednesday, Thursday, Friday))
 	{	
 	// The Main Function is a like the plot of a novella. This is where the action happens.
 	// Any other function is basically a verb within the plot.
-	// A function uses varialbes which are basically nouns.
+	// A function uses variables which are basically nouns.
 	// A function uses variables to 'return' a result.
 	// A return statement is like a thesis statement which one uses the structure of a sentence to logically prove.
 	// There may be many theses that need to be proven in order to prove a hierarchically larger thesis.
 	// This is mildly pyramidal if you think about it, the bricks build higher until the apex.
-		Function Water(A Flower)
-		{
-			Get(Water From Well);
-			Carry(Water To The Garden);
-			Return Pour(Water On Said Flower);
-		}
-		// In a computer program, everything needs to be exactly explicitly defined. We might not think of 
-		// the act of watering a flower as a function we perform, but to the tabula rasa computer, it needs 
-		// just such precise instructions. Though this is almost universally tedious to regular folks, I 
-		// think we forget that as children we needed to be taught everything from how to hold a toothbrush 
-		// to how to saute a flambe. We sublimate so many "functions" we forget that reality requires this 
-		// attention to detail just as much as a computer does. And, both are technically merciless. If I 
-		// touch a hot stove, it will burn me. If I forget a semicolon, the compiler will burn me, so to 
-		// speak. We would also need functions for Read, Sing, etc. However, this is algorithmic not programmtic.
-		// I.E. Psuedo Code.
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
-		// allow the function to run. The technical term is "input". This reads the same in Enlgish as Java.
+		// allow the function to run. The technical term is "input". This reads the same in English as Java.
 		// "While in the garden, do the actions of a gardener. While not in the garden, do something else."
 		{
 			If(Today == Monday) // An "If" statement. Intuitive enough.
@@ -257,7 +258,7 @@ Class Caroline_Waters_The_Flowers
 			}
 			Else If(Today == Tuesday) // Nearly identical to the others. Only the day of the week changes.
 			{
-				Return Water(Ms. Yellow); // Here, the varialbe that changes is who to water.
+				Return Water(Ms. Yellow); // Here, the variable that changes is who to water.
 			}
 			Else If(Today == Wednesday) // Etc.
 			{ 
@@ -294,10 +295,10 @@ finding the right community is key, everything else file under magic. And do giv
 Magic takes time. What is it that they say in Santa Cruz? "The Goddess is alive and magic is afoot!"
 Please remember you don't need to be the Shakespeare of computer programming either. Just basic 
 computer literacy will do in this day and age. I know you can do it, my calculations are always correct. Trust me."
-Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations of my own to do."
+Caroline tilts her head thoughtfully, "Alright Mr. Computer, I've got some calculations to do."
 
 After a few weeks to digest the solemn words of Mr. Computer, Caroline decided to work with an awesome computer 
-science tutor during her weekends. After all, her passion is for farming. This computer science buisness is just a 
+science tutor during her weekends. After all, her passion is for farming. This computer science business is just a 
 favor to help Old Mr. Computer communicate. Well, that is one way to put it.
 
 // Author's Endnote
@@ -310,23 +311,22 @@ I think the problem Caroline faces in Pseudo Code is completely legitimate. I fa
 community, and learned a lot. I also found the community excessively competitive, aggressive, and threatening. All
 Yang and no Yin. Programming in an environment where mistakes are abundant, but each mistake inches you closer to 
 shame: this adds insult to injury. More work needs to be done on the engineering side to allow for "good enough" 
-programming. People speak algorithmically, not programatically. They slang. Natural Language *is* Pseudo Code.
-Ariticial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
+programming. People speak algorithmically, not programmatically. They slang. Natural Language *is* Pseudo Code.
+Artificial Language *is* Pure Code.  If this is embraced, computer science teaching will benefit.
 However, regular people do need to be a bit more organized in their speech — i.e. more artificial/formal language
 and less natural/informal language — in order to be responsible with increasingly powerful technology. 
-Otherwise we will be a Wall-E society. So, both sides need to extend an olive branch. 
+Otherwise we will be a society like in Walle-E. So, both sides need to extend an olive branch. 
 
 I would like to see a genre of literature like Pseudo Code which introduce computer science structures slowly and 
 gradually, and thoroughly. Pseudo Code is my modest, best foot forward contribution to such an effort. I am reminded 
-of my other passion, Sanskrit. How remarkable words like karma, guru, chakra, and namaste have made their way 
-powerfully into our daily life. However, "Return Statement" and "Indent Styles" and "Recursion" and "Iteration" are 
+of my other passion, Sanskrit. How remarkable words like "Yoga", "Guru", "Karma", and "Chakra" have made their way 
+powerfully into our daily life. However, "Return Statement", "Indent Styles", "Recursion", and "Iteration" are 
 not in regular vocabulary by my estimation. As a budding Sanskrit teacher, I know that because a few Sanskrit words 
 are in our popular culture, Sanskrit teaching is the richer for it. The lack of a few basic computer science terms 
-in our popular culture means computer science teaching the poorer for it. And, it is a relatively easy fix. 
-I wrote the raw form first draft of this novella in one work day for free as a class project. 
+in our popular culture means computer science teaching is the poorer for it. And, it is a relatively easy fix. 
 
 Ultimately, the best incentive is fun. What could be more fun than bridging the gap between two worlds? Love is sort
-of the bridge between men and women, isn't it? Maybe fun is the bridge between computers and people. Something like 
-that.
+of the bridge between men and women... Maybe fun is the techbridge between computers and people. Something like 
+that. Words to that effect.
 
 —Josh यशस्वी Pang 
