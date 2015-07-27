@@ -2,7 +2,7 @@
 Productive Catharsis
 
 A note on reading the text:
-The author's preferred reading window for the .java file is Sublime Text 3 using "Espresso Libre" syntax highlighting.
+The author's preferred reading window for the .java file is the text editor "Sublime Text" using "Espresso Libre" syntax highlighting.
 We also would've accepted Atom with UI Theme "One Dark" or "One Light" and Syntax Theme "Solarized Dark." 
 Finally, Github's cloud reading window is perfectly satisfactory.
 Syntax highlighting is the feature which colors words funny, like *this*—
