@@ -11,4 +11,5 @@ this
 Anytime you are confused by something, Google it. Search Wikipedia. 
 That's a good algorithm.
 
+Here's a link to a circa three minute dramatic reading by yours truly:
 https://youtu.be/XhieuBA9RO8
