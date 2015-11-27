@@ -249,7 +249,7 @@ Class Caroline_Waters_The_Flowers
 	// This is mildly pyramidal if you think about it, the bricks build higher until the apex.
 		While(In The Garden) 
 		// Syntax for a while loop. Parentheses are like the mouth of the function. They take in the food to
-		// allow the function to run. The technical term is "input". This reads the same in English as Java.
+		// allow the function to run. The technical term is "input." This reads the same in English as Java.
 		// "While in the garden, do the actions of a gardener. While not in the garden, do something else."
 		{
 			If(Today == Monday) // An "If" statement. Intuitive enough.
