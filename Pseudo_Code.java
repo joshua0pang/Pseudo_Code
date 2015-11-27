@@ -79,8 +79,8 @@ Caroline simply cannot remember the last time she was this happy. The Flowers al
 And they said they love everything about how she cares for them. She can hardly contain her glee.
 
 Moral Of The Story: Just as The Flowers declared their names, in computer science we need to have names for things 
-as well. We call these names for things "variables". We call introducing names "declaring." Giving the name a 
-"value" we call "initialization". But lets not get too technical, shall we?
+as well. We call these names for things "variables." We call introducing names "declaring." Giving the name a 
+"value" we call "initialization." But lets not get too technical, shall we?
 
 // Chapter 4: Caroline Finds Joy In Old Mr. Computer's Jargon
 // Correct String Syntax In Java
