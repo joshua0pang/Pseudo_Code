@@ -52,7 +52,7 @@ her in a protective circle.
 "Caroline, why are you upset? You give us so much water and food and love, what can we do to lift your spirit?" 
 Caroline replied, "Little flowers, I am worried about how I can take care of all of you... How can I love all 
 of you equally?" 
-The Flowers said, "Well, maybe if you knew all of our names, you would be able account for all of us." 
+The Flowers said, "Well, maybe if you knew all of our names, you would be able to account for all of us." 
 
 Caroline was very happy that The Flowers were speaking to her!!!
 
