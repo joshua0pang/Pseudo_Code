@@ -206,7 +206,10 @@ expansive-contractive, axially rotative, operaitonal field which, as an operatio
 its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
 After years of back and forth, highs and lows — "omnidirectional" — Young Ms. Grammarian lighted upon an insight. While apart, Geometry 
 Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost 
-addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. She would simply have to marry him.
+addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. 
+In this fictional fairy tale, anyway.
+She would simply have to marry him.
+
 Binded by a ring, they would be complementary opposites. The perfect fit.
 Instantaneously she knew what she had to do. Utterly vulnerable, she expressed her experience in a way even Geometry Josh would comprehend. 
 She proposed, tying a colored string around his finger. And what did Josh do? Of course he accepted Young Ms Grammarians's hand in marriage. 
