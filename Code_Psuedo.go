@@ -5,7 +5,7 @@ Preface // Read Me
 
 "Welcome to the Geometer and the Grammarian. 
 In this novella, we'll be doing a sort of call and response to Pseudo Code, and adding a drop of Synergetics — you won't even notice. 
-Have fun!"
+Good Luck, Have fun!"
 
 // Chapter 1: The Tetrahedrons of Universe
 // An Introduction to Phenomenology
