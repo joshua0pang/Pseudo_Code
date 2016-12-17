@@ -84,7 +84,7 @@ For example, comparing OM to the Vector Equilibrium.
 And precisely mapping the macro-wisdom of Yoga with Synergetics. 
 These are some of the projects Geometry Josh will undertake when the world knows peace. 
 Until then, there is a real emergency our friend Josh devotes himself to addressing in the mean time. 
-See his thesis.package main
+See his World Game thesis.package main
 
 Moral of the Story: Knowing the farthest futures is fun and fulfilling, call it thrilling; however, until the present moment 
 is handled properly, we are anything but with integrity in applying ourselves otherwise. 
