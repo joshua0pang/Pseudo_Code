@@ -63,7 +63,8 @@ There are two things Geometry Josh knows.
 Sanskrit will become the planetary language. 
 And Synergetics will revolutionize all modern science. 
 
-Joshua is very happy when he dreams the future, and he is often impressed about how much his life is able to be normal despite such abnormal circumstances. 
+Joshua is very happy when he dreams the future, and he is often impressed about how much his life is able to be normal 
+despite such abnormal circumstances. 
 Geometry Josh has an intuitive feel in his very body about how things fit together geometrically. 
 As a person, he simply does not need to 'know' so many things. 
 A lot of his life is just going along with the inexhorable tide of evolution.
@@ -85,7 +86,8 @@ These are some of the projects Geometry Josh will undertake when the world knows
 Until then, there is a real emergency our friend Josh devotes himself to addressing in the mean time. 
 See his thesis.package main
 
-Moral of the Story: Knowing the farthest futures is fun and fulfilling, call it thrilling; however, until the present moment is handled properly, we are anything but with integrity in applying ourselves otherwise. 
+Moral of the Story: Knowing the farthest futures is fun and fulfilling, call it thrilling; however, until the present moment 
+is handled properly, we are anything but with integrity in applying ourselves otherwise. 
 
 // Chapter 4: Joshua Finds Joy In Young Ms. Grammarian's Word Choice
 // Unity is plural and at minimum is two
@@ -108,7 +110,8 @@ Over time, Geometry Josh began to notice his internal geometry changing — and 
 Energy started to behave in very new ways completely beyond his control. 
 This, being a usually compotent geometer, at the helm of his own tetrahedroning, gave him pause. 
 He took notice. 
-And, using the reasoning skills of geoemtry — deducing an unknown from the known — he figured out what — or who — was fiddling with his carefully arranged vector equilibrium!
+And, using the reasoning skills of geoemtry — deducing an unknown from the known — he figured out what — or who — was 
+fiddling with his carefully arranged vector equilibrium!
 
 It turns out, in some mysterious synergy, it was Young Ms. Grammarian and her mere proximity which was turvying all his topsies. 
 "Was it an unusual configuration of movement through the 12 degrees of freedom? 
@@ -119,7 +122,8 @@ Still assuming he was totally enlightened, Geometry Josh chose to go with the fl
 
 Little did Josh know this was going to became a major vortex for the forseeable future.
 
-Moral of the Story: There are two sides to every coin, and — by universal law — no matter how compotent and omnipotent and omniscient a person may or may not be — there is always always always a blindspot, a 'bizzaro realm' in which someone else is inside-out you. 
+Moral of the Story: There are two sides to every coin, and — by universal law — no matter how compotent and omnipotent and omniscient 
+a person may or may not be — there is always always always a blindspot, a 'bizzaro realm' in which someone else is inside-out you. 
 Everyone sees in 180 degrees. 
 No one sees in 360 degrees. 
 It takes two to tango, and to get the big picture. 
@@ -128,11 +132,14 @@ It takes two to tango, and to get the big picture.
 // Synergetics explains how English can sound an awful lot like Sanskrit — mostly subconsciously.
 
 Every Saturday for as long as he could remember, Joshua went to visit his best friend the Grammarian. 
-On one unusual Saturday, Ms. Grammarian accused Geometry Josh of not knowing everything about Sanskrit — "I thought you knew everything" she said, with a tone only she could produce. 
+On one unusual Saturday, Ms. Grammarian accused Geometry Josh of not knowing everything about Sanskrit — "I thought you knew everything" 
+she said, with a tone only she could produce. 
 Determined to find out for himself if he did or did not know everything, Geometry Josh embarked on a quest.
 Searching through all possible aspects of her challenge was time consuming, yet it was the most important thing to be thinking about.
-After studying Italian Grammar, immersing himself in the culture and food and fashion; in the lifestyle and the slowness and the emotion: even the gesticulations of body language; after all this, a simple conclusion was found.
-Though Sanskrit is indeed the most efficient form of communication, the language of enlightenment and the riches of bliss, joy, and ecstacy -- even though all of this is true, there is a kind of niché each language and culture has come to be proficient in.
+After studying Italian Grammar, immersing himself in the culture and food and fashion; in the lifestyle and the slowness and the emotion:
+even the gesticulations of body language; after all this, a simple conclusion was found.
+Though Sanskrit is indeed the most efficient form of communication, the language of enlightenment and the riches of bliss, joy, and ecstacy 
+-- even though all of this is true, there is a kind of niché each language and culture has come to be proficient in.
 For English, the niché is commerce. 
 For Italian, the niché is music. 
 All natural languages are a kind of heruistic for particular types of thinking and feeling and doing. 
@@ -152,7 +159,8 @@ There can be inaccuracies, and pointing to one thing yet meaning another, etc.
 These can sometimes be useful, and a lot of times not. 
 The sound we make is always real, and is in fact the stuff of reality. 
 They are the tetrahedrons behind our spoken words. 
-Though we have an inner monlogue, in whatever random language we use, there are tetrahedrons which are running the show, sometimes unbeknownst even to us. 
+Though we have an inner monlogue, in whatever random language we use, there are tetrahedrons which are running the show, sometimes 
+unbeknownst even to us. 
 And sound has a direct connection to the elemental tetrahedrons. 
 The sounds we make may actually be 'programming' our local enviroment.
 Wouldn't it be nice?
@@ -169,10 +177,13 @@ Without the Geometer, the Grammarian is impotent — full of sound and fury sign
 Are humans un-Natural?
 Are we having trouble communicating with her?
 
-Between our two friends, the Geometer and the Grammarian, we may one day come to see Sanskrit as everyone's mother tongue, and Synergetics as everyone's operating system.
+Between our two friends, the Geometer and the Grammarian, we may one day come to see Sanskrit as everyone's mother tongue, and Synergetics 
+as everyone's operating system.
 In some ways, geometry is about hardware, and grammar is about software — we need to evolve both concurrently.
-And indeed, Sanskrit is the best language for generating the software of culture — the words which color our experience constantly in the waking world. 
-And indeed, Synergetics is the best way for generating the hardware of culture — geodesic domes for example, also the content of dreams and thoughts you know.
+And indeed, Sanskrit is the best language for generating the software of culture — the words which color our experience constantly in the 
+waking world. 
+And indeed, Synergetics is the best way for generating the hardware of culture — geodesic domes for example, also the content of dreams and
+thoughts you know.
 
 Geometry Josh is verry happy to have made the acquaintance of a friendly Grammarian.
 
@@ -180,17 +191,28 @@ Geometry Josh is verry happy to have made the acquaintance of a friendly Grammar
 // Tiptoe, Through the window, By the window, That is where I'll be, Come tiptoe, Through the tulips, With me
 
 Father Time and Mother Nature have a secret to their happy marriage. Humans! Humans create the necessary spice of life to keep their cosmic food interesting neverendingly. Geometry Josh has a favorite line from A Midsummer Night Dream. "Ill met by moonlight, proud Titania." The ancient words of the fairy king Oberon show engagement in some very advanced Yin and Yang stuff. For all their eternality, Shakespeare's royal faeries are all too human.
-Direct communication is the key to the tensional integrity of a relationship. Young Ms. Grammarian, being the very powerful linguist that she is, had gotten all wrapped up in the subtleties and nuances of feigns and smiles that she had gotten a little lost in her own narrative. And Geometry Josh, for all his order and consistency, was the worse at normal direct communication for the overwhelming synchronicity that accompanies manipulating the unified field of cosmically hierarchical omni-interrationally-phased, Nuclear-centered, Convergently-divergently Intertransformable Systems of Geomretry. A succession of concentric, 12-around-one, closest-packed spheres, each of a tetravolume of five, i.e. of 120 A and B Quanta Modules omniembracing the hierarchy of nuclear event patternings — the synergetics siometric view of the isotropic vector matrix and its omnirational, low-order whole number, equilibrious state of the micro-macro cosmic limits of the nuclearly unique, symmetrical morphological relativity and its interquantatative, intertranformative, intertransactive expansive-contractive, axially rotative, operaitonal field which, as an operationally transformable complex, is conceptualizable only in its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
-After years of back and forth, highs and lows — "omnidirectional" — Young Ms. Grammarian lighted upon an insight. While apart, Geometry Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. She would simply have to marry him. Binded by a ring, they would be complementary opposites. The perfect fit.
+Direct communication is the key to the tensional integrity of a relationship. Young Ms. Grammarian, being the very powerful linguist that 
+she is, had gotten all wrapped up in the subtleties and nuances of feigns and smiles that she had gotten a little lost in her own narrative. And Geometry Josh, for all his order and consistency, was the worse at normal direct communication for the overwhelming synchronicity that accompanies manipulating the unified field of cosmically hierarchical omni-interrationally-phased, Nuclear-centered, Convergently-divergently Intertransformable Systems of Geomretry. A succession of concentric, 12-around-one, closest-packed spheres, each of a tetravolume of five, i.e. of 120 A and B Quanta Modules omniembracing the hierarchy of nuclear event patternings — the synergetics siometric view of the isotropic vector matrix and its omnirational, low-order whole number, equilibrious state of the micro-macro cosmic limits of the nuclearly unique, symmetrical morphological relativity and its interquantatative, intertranformative, intertransactive expansive-contractive, axially rotative, operaitonal field which, as an operationally transformable complex, is conceptualizable only in its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
+After years of back and forth, highs and lows — "omnidirectional" — Young Ms. Grammarian lighted upon an insight. While apart, Geometry 
+Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost 
+addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. She would simply have to marry him. Binded by a ring, they would be complementary opposites. The perfect fit.
 Instantaneously she knew what she had to do. Utterly vulnerable, she expressed her experience in a way even Geometry Josh would comprehend. She proposed, tying a colored string around his finger. And what did Josh do? Of course he accepted Young Ms Grammarians's hand in marriage. There's this girl he likes. She's the girl. And, they lived happily ever after do you know?
 
 Author's Endnote
 || You talking money, need a hearing aid /
 || You talking 'bout me, I don't see a shade || -Starboy, The Weekend
 
-So yea, I do generally think women are superior beings in a finite numerical sense. However, in an infinitely regenerative universe sense, where equilibrium is achieved only transcendentally, men and women are perfectly equal in their complementarity. While Sanskrit has three genders, I am convinced by duality. If I am singularly wrong, that's okay, I live my life already assuming I'm always wrong and she's always right. It's simpler that way. Even when she's wrong, she's right. Oh well. 
-Being a man is a thing, and I think we guys do have some special bond only we know, and vice versa, and those stuck in the middle. On behalf of all men, I formally apologize to womankind for past, present, and future mistakes. Mistakes were made, mistakes are being made, and more mistakes will be made. Guys, let's get our shit together. 
-All this to say, there is a synergy that arises which is by definition not predicted by the experiences of men and women apart. There's some kind of joy that can only be sparked when opposites attract. Love one another, within this moment there is a total communcation being simulatenously transmitted between opposite beings which will take all of time to complete the two-way transfer. Given this fact, have a little mercy on each other.
+So yea, I do generally think women are superior beings in a finite numerical sense. However, in an infinitely regenerative universe sense, 
+where equilibrium is achieved only transcendentally, men and women are perfectly equal in their complementarity. While Sanskrit has three 
+genders, I am convinced by duality. If I am singularly wrong, that's okay, I live my life already assuming I'm always wrong and she's 
+always right. It's simpler that way. Even when she's wrong, she's right. Oh well. 
+Being a man is a thing, and I think we guys do have some special bond only we know, and vice versa, and those stuck in the middle. On 
+behalf of all men, I formally apologize to womankind for past, present, and future mistakes. Mistakes were made, mistakes are being made, 
+and more mistakes will be made. Guys, let's get our shit together. Yeah, it's like that. Can't live with us, can't live without us...
+All this to say, there is a synergy that arises which is by definition not predicted by the experiences of men and women apart. There's 
+some kind of joy that can only be sparked when opposites attract. Love one another, within this moment there is a total communcation being 
+simulatenously transmitted between opposite beings which will take all of time to complete the two-way transfer. Given this fact, have a 
+little mercy on each other.
 
 -Josh "The Geometer" Pang  
 
