@@ -190,13 +190,27 @@ Geometry Josh is verry happy to have made the acquaintance of a friendly Grammar
 // Chapter 6: Young Ms. Grammarian Finds A Way To Be Near Her Dear Friend Josh
 // Tiptoe, Through the window, By the window, That is where I'll be, Come tiptoe, Through the tulips, With me
 
-Father Time and Mother Nature have a secret to their happy marriage. Humans! Humans create the necessary spice of life to keep their cosmic food interesting neverendingly. Geometry Josh has a favorite line from A Midsummer Night Dream. "Ill met by moonlight, proud Titania." The ancient words of the fairy king Oberon show engagement in some very advanced Yin and Yang stuff. For all their eternality, Shakespeare's royal faeries are all too human.
+Father Time and Mother Nature have a secret to their happy marriage. Humans! Humans create the necessary spice of life to keep their cosmic 
+food interesting neverendingly. Geometry Josh has a favorite line from A Midsummer Night Dream. "Ill met by moonlight, proud Titania." 
+The ancient words of the fairy king Oberon show engagement in some very advanced Yin and Yang stuff. For all their eternality, 
+Shakespeare's royal faeries are all too human.
 Direct communication is the key to the tensional integrity of a relationship. Young Ms. Grammarian, being the very powerful linguist that 
-she is, had gotten all wrapped up in the subtleties and nuances of feigns and smiles that she had gotten a little lost in her own narrative. And Geometry Josh, for all his order and consistency, was the worse at normal direct communication for the overwhelming synchronicity that accompanies manipulating the unified field of cosmically hierarchical omni-interrationally-phased, Nuclear-centered, Convergently-divergently Intertransformable Systems of Geomretry. A succession of concentric, 12-around-one, closest-packed spheres, each of a tetravolume of five, i.e. of 120 A and B Quanta Modules omniembracing the hierarchy of nuclear event patternings — the synergetics siometric view of the isotropic vector matrix and its omnirational, low-order whole number, equilibrious state of the micro-macro cosmic limits of the nuclearly unique, symmetrical morphological relativity and its interquantatative, intertranformative, intertransactive expansive-contractive, axially rotative, operaitonal field which, as an operationally transformable complex, is conceptualizable only in its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
+she is, had gotten all wrapped up in the subtleties and nuances of feigns and smiles that she had gotten a little lost in her own narrative. 
+And Geometry Josh, for all his order and consistency, was the worse at normal direct communication for the overwhelming synchronicity that 
+accompanies manipulating the unified field of cosmically hierarchical omni-interrationally-phased, Nuclear-centered, Convergently-
+divergently Intertransformable Systems of Geomretry. A succession of concentric, 12-around-one, closest-packed spheres, each of a 
+tetravolume of five, i.e. of 120 A and B Quanta Modules omniembracing the hierarchy of nuclear event patternings — the synergetics 
+isometric view of the isotropic vector matrix and its omnirational, low-order whole number, equilibrious state of the micro-macro cosmic 
+limits of the nuclearly unique, symmetrical morphological relativity and its interquantatative, intertranformative, intertransactive 
+expansive-contractive, axially rotative, operaitonal field which, as an operationally transformable complex, is conceptualizable only in 
+its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
 After years of back and forth, highs and lows — "omnidirectional" — Young Ms. Grammarian lighted upon an insight. While apart, Geometry 
 Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost 
-addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. She would simply have to marry him. Binded by a ring, they would be complementary opposites. The perfect fit.
-Instantaneously she knew what she had to do. Utterly vulnerable, she expressed her experience in a way even Geometry Josh would comprehend. She proposed, tying a colored string around his finger. And what did Josh do? Of course he accepted Young Ms Grammarians's hand in marriage. There's this girl he likes. She's the girl. And, they lived happily ever after do you know?
+addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. She would simply have to marry him.
+Binded by a ring, they would be complementary opposites. The perfect fit.
+Instantaneously she knew what she had to do. Utterly vulnerable, she expressed her experience in a way even Geometry Josh would comprehend. 
+She proposed, tying a colored string around his finger. And what did Josh do? Of course he accepted Young Ms Grammarians's hand in marriage. 
+There's this girl he likes. She's the girl. And, they lived happily ever after do you know?
 
 Author's Endnote
 || You talking money, need a hearing aid /
