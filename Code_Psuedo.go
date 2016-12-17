@@ -215,5 +215,3 @@ simulatenously transmitted between opposite beings which will take all of time t
 little mercy on each other.
 
 -Josh "The Geometer" Pang  
-
-
