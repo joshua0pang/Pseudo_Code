@@ -23,7 +23,8 @@ In science we call this Synergetics.
 
 Josh thinks he is 100% enlightened. 
 He accepts his stream of consciousness as the moving image of eternity, "Hello little tetrahedron, you can be whatever you like."
-He attributes his unusual vanity to non-attachment — "Who am I to be attached to constantly intertransforming tetrahedrons? What's there to be attached to?" 
+He attributes his unusual vanity to non-attachment — "Who am I to be attached to constantly intertransforming tetrahedrons? 
+"What's there to be attached to?" 
 He smiles as he drinks his delightful beverage: first-things-first. 
 Josh is quite a good geometer. 
 He has an insane amount of tetrahedrons. 
