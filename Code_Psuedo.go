@@ -208,11 +208,13 @@ After years of back and forth, highs and lows — "omnidirectional" — Young Ms
 Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost 
 addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. 
 In this fictional fairy tale, anyway.
-She would simply have to marry him.
+She would simply have to marry him. 
+Everyone gets married childen's stories, isn't it a rule?
+I don't want to break the rules!
 
 Binded by a ring, they would be complementary opposites. The perfect fit.
 Instantaneously she knew what she had to do. Utterly vulnerable, she expressed her experience in a way even Geometry Josh would comprehend. 
-She proposed, tying a colored string around his finger. And what did Josh do? Of course he accepted Young Ms Grammarians's hand in marriage. 
+She proposed, tying a colored string around his finger. What would Josh do? Of course he accepted Young Ms Grammarians's hand in marriage. 
 There's this girl he likes. She's the girl. And, they lived happily ever after do you know?
 
 Author's Endnote
