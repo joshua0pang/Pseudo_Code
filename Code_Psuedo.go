@@ -230,7 +230,7 @@ behalf of all men, I formally apologize to womankind for past, present, and futu
 and more mistakes will be made. Guys, let's get our shit together. Yeah, it's like that. Can't live with us, can't live without us...
 All this to say, there is a synergy that arises which is by definition not predicted by the experiences of men and women apart. There's 
 some kind of joy that can only be sparked when opposites attract. Love one another, within this moment there is a total communcation being 
-simultaneously transmitted between opposite beings which will take all of time to complete the two-way transfer. Given this fact, have a 
-little mercy on each other.
+simultaneously transmitted between opposite beings which will take all of time to complete the two-way transfer of Nature's polar energies. 
+Given this fact, have a little mercy on each other.
 
 -Josh "The Geometer" Pang  
