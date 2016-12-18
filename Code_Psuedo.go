@@ -218,7 +218,7 @@ She proposed, tying a colored string around his finger. What would Josh do? Of c
 There's this girl he likes. She's the girl. And, they lived happily ever after do you know?
 
 Author's Endnote
-|| You talking money, need a hearing aid /
+|| You talking money, need a hearing aid /   ||
 || You talking 'bout me, I don't see a shade || -Starboy, The Weekend
 
 So yea, I do generally think women are superior beings in a finite numerical sense. However, in an infinitely regenerative universe sense, 
