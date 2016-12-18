@@ -209,7 +209,7 @@ Josh was extrodinarily unusual and easy to misunderstand; when together, Geometr
 addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. 
 In this fictional fairy tale, anyway.
 She would simply have to marry him. 
-Everyone gets married childen's stories, isn't it a rule?
+Everyone gets married in childen's stories, isn't it, like, a rule?
 I don't want to break the rules!
 
 Binded by a ring, they would be complementary opposites. The perfect fit.
