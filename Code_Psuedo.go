@@ -80,7 +80,7 @@ Vata is an icosahedron because it is simply the most complicated.
 Of all the shapes in our Universe, Vata shapes are the dominant source of all problems until the end of time. 
 
 There are a lot of patterns worth learning about between Sanskrit and Synergetics. 
-For example, comparing OM to the Vector Equilibrium. 
+For example, comparing ॐ to the Vector Equilibrium. 
 And precisely mapping the macro-wisdom of Yoga with Synergetics. 
 These are some of the projects Geometry Josh will undertake when the world knows peace. 
 Until then, there is a real emergency our friend Josh devotes himself to addressing in the mean time. 
