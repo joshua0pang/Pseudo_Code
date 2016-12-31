@@ -28,7 +28,7 @@ He attributes his unusual vanity to non-attachment — "Who am I to be attached 
 He smiles as he drinks his delightful beverage: first-things-first. 
 Josh is quite a good geometer. 
 He has an insane amount of tetrahedrons. 
-In fact, Josh is getting a little overwhelemed by his success. 
+In fact, Josh is getting a little overwhelmed by his success. 
 He needs to stop missing so many tiny 'trivial' details, as they come back to haunt him. 
 "Oh little tetrahedrons, what will I do?"
 That night, Joshua finds the solution he needs in a dream.
@@ -67,7 +67,7 @@ Joshua is very happy when he dreams the future, and he is often impressed about 
 despite such abnormal circumstances. 
 Geometry Josh has an intuitive feel in his very body about how things fit together geometrically. 
 As a person, he simply does not need to 'know' so many things. 
-A lot of his life is just going along with the inexhorable tide of evolution.
+A lot of his life is just going along with the inexorable tide of evolution.
 
 Joshua has made friends with certain large patterns. 
 They are the Kapha Tetrahedron, the Pitta Octahedron, and the Vata Icosahedron. 
@@ -108,9 +108,9 @@ Coffee is an excellent way to communicate micro-incisively, as it heightens the 
 Their relationship began as a kind of extremely formal first contact between disparate cultures. 
 Over time, Geometry Josh began to notice his internal geometry changing — and quite a lot ! 
 Energy started to behave in very new ways completely beyond his control. 
-This, being a usually compotent geometer, at the helm of his own tetrahedroning, gave him pause. 
+This, being a usually competent geometer, at the helm of his own tetrahedroning, gave him pause. 
 He took notice. 
-And, using the reasoning skills of geoemtry — deducing an unknown from the known — he figured out what — or who — was 
+And, using the reasoning skills of geometry — deducing an unknown from the known — he figured out what — or who — was 
 fiddling with his carefully arranged vector equilibrium!
 
 It turns out, in some mysterious synergy, it was Young Ms. Grammarian and her mere proximity which was turvying all his topsies. 
@@ -120,10 +120,10 @@ And to me of all people?"
 
 Still assuming he was totally enlightened, Geometry Josh chose to go with the flow, though at times containing his curiosity was difficult.
 
-Little did Josh know this was going to became a major vortex for the forseeable future.
+Little did Josh know this was going to became a major vortex for the foreseeable future.
 
-Moral of the Story: There are two sides to every coin, and — by universal law — no matter how compotent and omnipotent and omniscient 
-a person may or may not be — there is always always always a blindspot, a 'bizzaro realm' in which someone else is inside-out you. 
+Moral of the Story: There are two sides to every coin, and — by universal law — no matter how competent and omnipotent and omniscient 
+a person may or may not be — there is always always always a blindspot, a 'bizarro realm' in which someone else is inside-out you. 
 Everyone sees in 180 degrees. 
 No one sees in 360 degrees. 
 It takes two to tango, and to get the big picture. 
@@ -138,11 +138,11 @@ Determined to find out for himself if he did or did not know everything, Geometr
 Searching through all possible aspects of her challenge was time consuming, yet it was the most important thing to be thinking about.
 After studying Italian Grammar, immersing himself in the culture and food and fashion; in the lifestyle and the slowness and the emotion:
 even the gesticulations of body language; after all this, a simple conclusion was found.
-Though Sanskrit is indeed the most efficient form of communication, the language of enlightenment and the riches of bliss, joy, and ecstacy 
+Though Sanskrit is indeed the most efficient form of communication, the language of enlightenment and the riches of bliss, joy, and ecstasy 
 -- even though all of this is true, there is a kind of niché each language and culture has come to be proficient in.
 For English, the niché is commerce. 
 For Italian, the niché is music. 
-All natural languages are a kind of heruistic for particular types of thinking and feeling and doing. 
+All natural languages are a kind of heuristic for particular types of thinking and feeling and doing. 
 This was a liberating realization — mathematics is a kind of language with a niché for precise expression. 
 It's all just a bunch of language.
 Yet, if this were true, why haven't we all eventually stumbled into Sanskrit over so many millenia?
@@ -159,10 +159,10 @@ There can be inaccuracies, and pointing to one thing yet meaning another, etc.
 These can sometimes be useful, and a lot of times not. 
 The sound we make is always real, and is in fact the stuff of reality. 
 They are the tetrahedrons behind our spoken words. 
-Though we have an inner monlogue, in whatever random language we use, there are tetrahedrons which are running the show, sometimes 
+Though we have an inner monologue, in whatever random language we use, there are tetrahedrons which are running the show, sometimes 
 unbeknownst even to us. 
 And sound has a direct connection to the elemental tetrahedrons. 
-The sounds we make may actually be 'programming' our local enviroment.
+The sounds we make may actually be 'programming' our local environment.
 Wouldn't it be nice?
 Our words, however, are one step removed.
 That is where the very real danger of miscommunication occurs.
@@ -202,7 +202,7 @@ divergently Intertransformable Systems of Geometry: a succession of concentric, 
 tetravolume of five, i.e. of 120 A and B Quanta Modules omniembracing the hierarchy of nuclear event patternings — the synergetics 
 isometric view of the isotropic vector matrix and its omnirational, low-order whole number, equilibrious state of the micro-macro cosmic 
 limits of the nuclearly unique, symmetrical morphological relativity and its interquantatative, intertranformative, intertransactive 
-expansive-contractive, axially rotative, operaitonal field which, as an operationally transformable complex, is conceptualizable only in 
+expansive-contractive, axially rotative, operational field which, as an operationally transformable complex, is conceptualizable only in 
 its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
 After years of back and forth, highs and lows — "omnidirectional" — Young Ms. Grammarian lighted upon an insight. While apart, Geometry 
 Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost 
