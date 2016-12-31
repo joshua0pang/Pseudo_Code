@@ -219,7 +219,8 @@ There's this girl he likes. She's the girl. And, they lived happily ever after d
 
 Author's Endnote
 || You talking money, need a hearing aid /   ||
-|| You talking 'bout me, I don't see a shade || -Starboy, The Weekend
+|| You talking 'bout me, I don't see a shade || 
+  -Starboy, The Weekend
 
 So yea, I do generally think women are superior beings in a finite numerical sense. However, in an infinitely regenerative universe sense, 
 where equilibrium is achieved only transcendentally, men and women are perfectly equal in their complementarity. While Sanskrit has three 
