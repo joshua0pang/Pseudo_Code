@@ -203,7 +203,7 @@ tetravolume of five, i.e. of 120 A and B Quanta Modules omniembracing the hierar
 isometric view of the isotropic vector matrix and its omnirational, low-order whole number, equilibrious state of the micro-macro cosmic 
 limits of the nuclearly unique, symmetrical morphological relativity and its interquantatative, intertranformative, intertransactive 
 expansive-contractive, axially rotative, operational field which, as an operationally transformable complex, is conceptualizable only in 
-its equilibrious state — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
+its equilibrious state (-rbf) — is naturally going to stun people. These are a lot of radiant photons for literally anybody.
 After years of back and forth, highs and lows — "omnidirectional" — Young Ms. Grammarian lighted upon an insight. While apart, Geometry 
 Josh was extrodinarily unusual and easy to misunderstand; when together, Geometry Josh was simple and friendly and fun to be with: almost 
 addictive to be around for those who enjoy the certain Sanskrit ethers. The solution was ever so clear. 
